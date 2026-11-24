@@ -48,4 +48,4 @@ crons = ["*/15 * * * *"]
 
 [vars]
 ENVIRONMENT = "production"
-FRONTEND_URL = "https://lyccc.cc"
+
